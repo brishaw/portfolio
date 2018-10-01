@@ -1,3 +1,11 @@
 div.bl-panel-items>div {
     background-color: #272727;
 }
+
+.project-details i {
+    padding-right: 5px;
+}
+
+.btn i {
+    padding-left: 5px;
+}
