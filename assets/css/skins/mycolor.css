@@ -1,5 +1,5 @@
 /* =================================================================== */
-/* Yellow #17e427
+/* my color #98dcd7, #17e427,#dc9898
 ====================================================================== */
 
 .page-title h2 span:first-child::before,
@@ -22,7 +22,7 @@ body.blog.dark .widget.recent-posts .entry-title a:hover,
 .comments-list .comment-reply:hover,
 body.blog .btn.back,
 .personal-info a.btn.btn-blog {
-	color:#17e427;
+	color:#98dcd7;
 }
 
 .readmore.btn,
@@ -42,15 +42,15 @@ body.blog .pagination li.active,
 .comments-form button:active,
 body.blog .btn.back:hover,
 .personal-info a.btn.btn-blog:hover  {
-	background: #17e427;
+	background: #98dcd7;
 }
 .resume-card-name {
-	color: #17e427 !important;
+	color: #98dcd7 !important;
 }
 body.blog .btn.back ,
 .personal-info a.btn.btn-blog {
-	border:1px solid #17e427;
+	border:1px solid #98dcd7;
 }
 .bl-main>section.topleft:before {
-	content:url('../../images/my_underline.png');
+	content:url('../../images/my_underline_blue.png');
 }
